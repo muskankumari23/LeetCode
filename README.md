@@ -23,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/muskankumari23/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/muskankumari23/LeetCode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/muskankumari23/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/muskankumari23/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
