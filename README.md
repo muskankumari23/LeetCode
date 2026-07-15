@@ -46,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/muskankumari23/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskankumari23/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
