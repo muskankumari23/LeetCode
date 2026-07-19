@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muskankumari23/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/muskankumari23/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskankumari23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskankumari23/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0217-contains-duplicate](https://github.com/muskankumari23/LeetCode/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muskankumari23/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskankumari23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/muskankumari23/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/muskankumari23/LeetCode/tree/master/0283-move-zeroes) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/muskankumari23/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskankumari23/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/muskankumari23/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
