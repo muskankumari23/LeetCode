@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskankumari23/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0217-contains-duplicate](https://github.com/muskankumari23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/muskankumari23/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/muskankumari23/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/muskankumari23/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/muskankumari23/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/muskankumari23/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskankumari23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/muskankumari23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muskankumari23/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/muskankumari23/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/muskankumari23/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/muskankumari23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muskankumari23/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/muskankumari23/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -46,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskankumari23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/muskankumari23/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/muskankumari23/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/muskankumari23/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/muskankumari23/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskankumari23/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/muskankumari23/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
